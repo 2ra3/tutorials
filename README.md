@@ -1,3 +1,3 @@
 # tutorials
 
-Learning how to use git and making new things.
+Learning how to use git and making new thinggs and much more.
